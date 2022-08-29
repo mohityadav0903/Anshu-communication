@@ -1,0 +1,30 @@
+.footer-div1 {
+  height: 100vh;
+  /* width: auto; */
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  justify-content: space-around;
+  align-items: center;
+}
+.dot-footer {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: black;
+}
+.dot-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  height: 10vh;
+}
+.footer-div2 {
+  background-color: #f1f7fe;
+}
+.base-footer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

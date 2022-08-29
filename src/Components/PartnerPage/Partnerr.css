@@ -1,0 +1,19 @@
+.head2{
+    float: right;
+    width: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+   word-spacing: 10px;
+   /* display: table-caption; */
+}
+.head1{
+    width: 40%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.but{
+    text-align:start;
+}
