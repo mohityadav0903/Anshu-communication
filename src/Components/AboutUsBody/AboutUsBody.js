@@ -9,7 +9,9 @@ function AboutUsBody() {
           <h3>LOREM</h3>
           <h5>OCCUPATION LOCATION</h5>
         </div>
-        <div className="col-md-4 box-about-us"></div>
+        <div className="col-md-4 ">
+        <img src="https://th.bing.com/th/id/OIP.RyHhiWsHT-dLwnK-2RMnyQHaEK?w=308&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" class="rounded float-start" alt="..."/>
+        </div>
         <div className="col-md-6">
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -19,7 +21,9 @@ function AboutUsBody() {
           </p>
           <div className="circle-bottom">
             <div className="item">
-                <div className="circle c1"></div>
+                <div className="circle c1">
+                  <img></img>
+                </div>
                 <div className="circle c2"></div>
                 <div className="circle c3"></div>
                 <div className="circle c4"></div>

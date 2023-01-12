@@ -1,5 +1,5 @@
 .footer-div1 {
-  height: 100vh;
+  height: auto;
   /* width: auto; */
   display: flex;
   flex-direction: column;

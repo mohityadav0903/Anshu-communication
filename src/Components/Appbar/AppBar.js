@@ -10,7 +10,7 @@ function AppBar() {
   return (
     <>
       {["md"].map((expand) => (
-        <Navbar key={expand} bg="white" expand={expand} className="mb-3">
+        <Navbar key={expand} bg="light" expand={expand} className="mb-3">
           <Container>
             <Navbar.Brand href="#">LOGO</Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />

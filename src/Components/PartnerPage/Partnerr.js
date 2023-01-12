@@ -4,14 +4,16 @@ import "./Partnerr.css";
 
 function Partnerr() {
   return (
+    <div className="cointainer ">
     <div className="container py-5">
       <div className="head1">
-        <h1 className="text-black ">Want To Buy Products?</h1>
+        <h2 className="text-black ">Want To Buy Products?</h2>
         <Button className="button px-4 but">Contact Us</Button>
       </div>
       <div className="head2">
-        <h1 className="text-black  ">Want To Be Our Partner?</h1>
+        <h2 className="text-black  ">Want To Be Our Partner?</h2>
         <Button className="button px-4  but">Be Partner</Button>
+      </div>
       </div>
     </div>
   );
